@@ -1,4 +1,4 @@
-package com.demoqa.randomString;
+package com.demoqa.helpers;
 
 
 public class RandomArrayElement {

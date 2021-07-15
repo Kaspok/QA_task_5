@@ -2,7 +2,7 @@ package com.demoqa.test;
 
 import com.codeborne.selenide.Configuration;
 import com.demoqa.pages.PagesStudentRegistrationForm;
-import com.demoqa.randomString.RandomArrayElement;
+import com.demoqa.helpers.RandomArrayElement;
 import com.github.javafaker.Faker;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
